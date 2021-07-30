@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         Debug.Log("Player 1");
+        Debug.Log("Player 2");
         
     }
 
